@@ -18,8 +18,8 @@ public class Calculadora extends Application  {
 		
 		vb.getChildren().add(new Calculator());
 		Scene sc = new Scene(vb, 270, 270);
-		window.setScene(***);
-		***.show();
+		window.setScene(sc);
+		window.show();
 	}
 	
 }
